@@ -1,0 +1,10 @@
+python-dotenv 
+langchain
+langchain-community
+langchain-groq
+streamlit
+faiss-cpu
+pypdf
+langchain-openai
+tiktoken
+pdfminer.six
